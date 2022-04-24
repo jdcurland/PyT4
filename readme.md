@@ -1,4 +1,4 @@
-# Testbook Emulator
+# Testbook Interface Emulator
 A python based project to add easy-to-use usb-to-obdii-port diagnostics to the legacy Land Rover Testbook/RDS diagnostics software. Currently, no system publicly exists to provide this functionality. 
 
 ## Background
